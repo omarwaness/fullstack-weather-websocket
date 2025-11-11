@@ -7,7 +7,7 @@ import java.net.URL;
 import java.util.stream.Collectors;
 
 public class WeatherService {
-    private final String apiKey = "e97841e0253ecb7100e6b07ce2c872b7";
+    private final String apiKey = "";
     private final double latitude;
     private final double longitude;
     private final String BASE_URL_CURRENT = "https://api.openweathermap.org/data/2.5/weather";
